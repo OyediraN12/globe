@@ -1,0 +1,46 @@
+/*
+	Theme Name: Engage Hub
+	Theme URI: http://clapat.ro/themes/soho-wordpress/
+	Description: Responsive Wordpress Theme
+	Template: soho
+	Version: 1.0
+	Author: You
+	Author URI: http://your site
+	License: Themeforest
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+	Tags: four-columns, custom-background, custom-colors, featured-images, full-width-template, theme-options
+	Text Domain: soho-child
+*/
+
+
+/*------------------------------------------------------------------
+
+Add here your own styles
+-------------------------------------------------------------------*/
+
+	
+	h1{
+		font-size:50px;
+	}
+
+input[type="tel"] {
+		color: #000;
+		font-size: 15px;
+		font-family: 'Open Sans', sans-serif;
+		font-weight: 400;
+		height: 50px;
+		padding: 12px 20px 12px 2px;
+		width: 100%;
+		border-radius:0px;
+		margin-bottom:0px;
+		border:none;
+		transition: all 0.2s linear;
+		-moz-transition: all 0.2s linear;
+		-webkit-transition: all 0.2s linear;
+		-o-transition: all 0.2s linear;
+		box-sizing: border-box;
+		background-color:#fff;
+		outline:none;
+		border-bottom:1px solid #ddd;
+	}
